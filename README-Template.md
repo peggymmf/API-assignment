@@ -2,7 +2,7 @@
 
 ## Discription
 
-- This app first uses `requests` module to get JSON file via url
+- This app first uses `requests` module to get JSON file via given url
 - Then convert JSON to `pandas` `Dataframe`
 - Do data manipulation as requested 
 - Save as csv file to path 
