@@ -12,23 +12,17 @@
 
 Libraries need to be installed: 
 
-Flask
+Flask,
 
 ```
 $ pip install flask
 ```
 
-Pandas
+Or just run
+```
+$ pip install -r requirements.txt
+```
 
-```
-$pip install pandas
-```
-
-Tablib
-
-```
-$ pip install tablib
-```
 
 ### Run the app in command line: 
 
