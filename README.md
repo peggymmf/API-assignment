@@ -12,10 +12,12 @@
 
 Libraries need to be installed: 
 
-Flask,
+Flask, pandas, response
 
 ```
 $ pip install flask
+$ pip install pandas
+$ pip install response
 ```
 
 Or just run
