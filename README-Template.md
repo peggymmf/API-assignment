@@ -39,7 +39,7 @@ $ python -m flask run
 
 ### Click the link to download data as csv file
 - Then this app should be running on your local server at http://127.0.0.1:5000/ 
-- Click the link to run this app!
+- Click the link to download the final result!
 
 
 ## Authors
