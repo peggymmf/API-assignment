@@ -30,10 +30,11 @@ Tablib
 $ pip install tablib
 ```
 
-## Run the app in command line: 
+### Run the app in command line: 
 
 ```
-$ export FLASK_APP=main.py $ python -m flask run
+$ export FLASK_APP=main.py 
+$ python -m flask run
 ```
 
 ### Click the link to download data as csv file
