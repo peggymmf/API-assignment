@@ -3,10 +3,10 @@
 ## Discription
 
 - This app first uses `requests` module to get JSON file via url
-- Then convert JSON to pandas dataframe 
+- Then convert JSON to `pandas` `Dataframe`
 - Do data manipulation as requested 
 - Save as csv file to path 
-- Finally define app to open csv file and response to download csv file
+- Finally define app to open csv file and `response` to download csv file
 
 ### Installation
 
