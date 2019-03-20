@@ -6,8 +6,6 @@ import requests
 from pandas import DataFrame
 import datetime
 from flask import Flask, Response
-import tablib
-import os
 
 # Load json into a Python object
 url = 'http://mysafeinfo.com/api/data?list=englishmonarchs&format=json'
