@@ -10,7 +10,7 @@
 
 ### Installation
 
-Libraries need to be installed: -Flask -pandas -tablib
+Libraries need to be installed: 
 
 Flask
 
